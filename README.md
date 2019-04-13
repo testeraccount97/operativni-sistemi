@@ -1,2 +1,7 @@
-## Operativni sistemi - _JAVA_ I/O, Threads,Java Networking, Synchronization
-_Finki_ laboratorski i auditoriski i drugi vezbi
+## Operativni sistemi 
+#### _Finki laboratorski, auditoriski i drugi vezbi_
+* _JAVA_ I/O 
+*Threads
+*Java Networking
+*Synchronization
+
